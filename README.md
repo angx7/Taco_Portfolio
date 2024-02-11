@@ -1,7 +1,7 @@
 # Portafolio de Alex Taco
 > Este archivo contiene los creditos de la plantilla usada para elaborar este portafolio 
 
-## Todos los datos usados en el portafolio son propios
+## ⚠️ Todos los datos usados en el portafolio son propios
 
 ## Créditos de la plantilla:
 
