@@ -1,7 +1,9 @@
 # Portafolio de Alex Taco
 > Este archivo contiene los creditos de la plantilla usada para elaborar este portafolio 
 
-## Agradezco a:
+## Todos los datos usados en el portafolio son propios
+
+## Créditos de la plantilla:
 
 * Template Name: iPortfolio
 * Updated: Jan 29 2024 with Bootstrap v5.3.2
